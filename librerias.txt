@@ -1,0 +1,14 @@
+numpy
+opencv-python
+pyserial
+PyQt6
+pyqtgraph
+ultralytics
+python-dotenv
+reportlab
+flask
+flask-cors
+qrcode
+psycopg2
+mysql-connector-python
+pyngrok
