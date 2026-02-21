@@ -1,0 +1,29 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Carpetas del proyecto
+erterter/
+
+# Archivo de entorno
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
