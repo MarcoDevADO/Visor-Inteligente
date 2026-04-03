@@ -1,6 +1,6 @@
 # Importaciones de clases desde archivos del proyecto
-from lambda_b import DBManager
-from lambda_c import ThemeManager
+from Querys import DBManager
+from Estilo import ThemeManager
 
 # Importaciones de librerías estándar de Python
 import sys
